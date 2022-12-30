@@ -15,4 +15,6 @@
   </a>
 </div>
   </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://github.com/Mr-Banana-2045/Mr-Banana-2045">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Banana-2045&repo=convoychat" />
+</a>
