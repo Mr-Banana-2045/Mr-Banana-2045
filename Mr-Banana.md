@@ -1,12 +1,13 @@
 
 
-https://user-images.githubusercontent.com/109140672/210073130-780a0e0a-6423-456a-aaef-c58a67ba1e54.mp4
+
 
 ### hi peoples👋
 
 <div id="header" align="center">
 
-  <img src="gif_she😐😂.gif" width="100" style="border-radius:10px ;"/><br>
+  <img src="![gif_she😐😂](https://user-images.githubusercontent.com/109140672/210073449-aa9669aa-8223-4f32-a9e3-eae8067a1b3e.gif)
+" width="100" style="border-radius:10px ;"/><br>
 
   	<form action="https://google.com"><br>
 
