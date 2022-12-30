@@ -15,6 +15,4 @@
   </a>
 </div>
   </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Banana-2045&repo=convoychat" />
-</a>
+<pre>moz</pre>
