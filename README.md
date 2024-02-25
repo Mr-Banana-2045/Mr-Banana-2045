@@ -6,7 +6,7 @@
   <a href="https://instagram.com/Mr_Banana">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="http://Mr-Banana-2045.github.io/banana_search.html">
+  <a href="http://Mr-Banana-2045.github.io">
     <img src="https://img.shields.io/badge/Site-yellow?style=for-the-badge&logo=google&logoColor=white" alt="Site Badge"/>
    </a>
   <a href="https://www.linux.org">
