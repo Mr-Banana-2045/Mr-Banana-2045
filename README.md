@@ -3,15 +3,7 @@
 <div id="header" align="center">
 <img src="https://s4.uupload.ir/files/gif_f37n.gif" width="300"/>
 <div id="badges">
-  <a href="https://instagram.com/Mr_Banana">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="http://Mr-Banana-2045.github.io">
-    <img src="https://img.shields.io/badge/Site-yellow?style=for-the-badge&logo=google&logoColor=white" alt="Site Badge"/>
-   </a>
-  <a href="https://www.linux.org">
-    <img src="https://img.shields.io/badge/linux-green?style=for-the-badge&logo=linux&logoColor=white" alt="linux Badge"/>
-  </a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Banana-2045&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
   </div>
-<pre>moz</pre>
+<pre>echo "moz"</pre>
